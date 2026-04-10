@@ -7,3 +7,7 @@ notebooks/PyTorch_CNN/data/cifar-10-batches-py/data_batch_4
 notebooks/PyTorch_CNN/data/cifar-10-batches-py/data_batch_5
 notebooks/PyTorch_CNN/data/cifar-10-batches-py/readme.html
 notebooks/PyTorch_CNN/data/cifar-10-batches-py/test_batch
+notebooks/Augmentation/asl_data.zip
+notebooks/Augmentation/test.csv
+notebooks/Augmentation/train.csv
+notebooks/Augmentation/val.csv
