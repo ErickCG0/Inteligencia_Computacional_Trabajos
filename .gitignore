@@ -12,3 +12,5 @@ notebooks/Augmentation/test.csv
 notebooks/Augmentation/train.csv
 notebooks/Augmentation/val.csv
 notebooks/NLP/aclImdb/
+.env
+.env.*
